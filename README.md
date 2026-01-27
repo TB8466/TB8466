@@ -6,10 +6,10 @@ In my day2day I primarily work with functions-framework, flask, NextJS and Googl
 
 ### Primary skillset
 #### Google Cloud Platform
-Cloud build
-Cloud Run Functions
-Cloud SQL
-IAM permissions
+Cloud build,
+Cloud Run Functions,
+Cloud SQL,
+IAM permissions,
 Alerts and budget management
 #### Headless CMS
 Worked with both Strapi and Storyblok, to create websites with real-time-editing
@@ -17,9 +17,9 @@ Worked with both Strapi and Storyblok, to create websites with real-time-editing
 I'm familier with creating a CI/CD using GitHub workflows and release-please-action
 
 #### Alternative skillset
-NuxtJS and VueJS
-SQL and PostGress
-NodeJS
+NuxtJS, VueJS,
+SQL, PostGress,
+NodeJS,
 Vercel
 
 ### References
