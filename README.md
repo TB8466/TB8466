@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 My name is Thorbjørn and I'm currently employed at 1Komma5 Denmark
+
 My favourite languages are Python and Typescript.
 
 In my day2day I primarily work with functions-framework, flask, NextJS and Google Cloud Platform.
