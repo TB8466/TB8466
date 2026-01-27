@@ -23,3 +23,6 @@ NuxtJS and VueJS
 SQL and PostGress
 NodeJS
 Vercel
+
+### References
+Helped with the creation of: [1komma5.dk](https://1komma5.dk), [1komma5.se](https://1komma5.se) & [1komma5.fi](https://1komma5.fi)
