@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**TB8466/TB8466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Thorbjørn and I'm currently employed at 1Komma5 Denmark
 
-Here are some ideas to get you started:
+### Primary skillset
+My favourite languages are Python and Typescript.
+I primarily work with functions-framework, flask and NextJS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Other skills includes:
+#### Google Cloud Platform
+Cloud build
+Cloud Run Functions
+Cloud SQL
+IAM permissions
+Alerts and budget management
+#### Headless CMS
+Worked with both Strapi and Storyblok, to create websites with real-time-editing
+#### Release please actions
+I'm familier with creating a CI/CD using GitHub workflows and release-please-action
+
+##### Alternative skillset
+NuxtJS and VueJS
+SQL and PostGress
+NodeJS
+Vercel
