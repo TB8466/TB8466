@@ -4,7 +4,7 @@ My name is Thorbjørn and I'm currently employed at 1Komma5 Denmark
 
 ### Primary skillset
 My favourite languages are Python and Typescript.
-I primarily work with functions-framework, flask and NextJS.
+In my day2day I primarily work with functions-framework, flask, NextJS and Google Cloud Platform.
 
 ### Other skills includes:
 #### Google Cloud Platform
