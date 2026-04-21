@@ -7,6 +7,9 @@ My favourite languages are Python and Typescript.
 In my day2day I primarily work with functions-framework, flask, NextJS and Google Cloud Platform.
 
 ### Primary skillset
+#### Languages
+My go-to languages have always been Python & TS/JS
+
 #### Google Cloud Platform
 Cloud build,
 Cloud Run Functions,
