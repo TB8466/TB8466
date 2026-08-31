@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Thorbjørn and I'm currently employed at 1Komma5 Denmark
+My name is Thorbjørn.
 
 My favourite languages are Python and Typescript.
 
